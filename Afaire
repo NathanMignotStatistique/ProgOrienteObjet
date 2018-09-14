@@ -1,0 +1,3 @@
+instaler un client git
+cloner le dépot en local
+  git clone https://github.com/NathanMignotStatistique/ProgOrienteObjet.git
