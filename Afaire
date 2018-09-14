@@ -1,3 +1,9 @@
 instaler un client git
 cloner le dépot en local
   git clone https://github.com/NathanMignotStatistique/ProgOrienteObjet.git
+  
+git commit -a -m "init"
+
+git pull (syncro le dossier avec le serveur)
+git commit
+git push (syncro le serveur)
